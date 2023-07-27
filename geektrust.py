@@ -1,6 +1,6 @@
 import sys
 import itertools
-import file_reader
+import prices, file_reader
 
 
 def main():
